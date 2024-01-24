@@ -3,9 +3,10 @@ task 1
 ![Screenshot 2024-01-24 101529](https://github.com/dhanrajpimple/TMD-TASK/assets/86459893/c511f879-a997-46dc-9a69-5350f6d0c6b9)
 
 task2
-![Screenshot 2024-01-24 101944](https://github.com/dhanrajpimple/TMD-TASK/assets/86459893/5c5a77a3-54bc-43ea-b472-f031536edc84)
-![Screenshot 2024-01-24 101956](https://github.com/dhanrajpimple/TMD-TASK/assets/86459893/3704d096-e963-4e9f-ba8d-0f98b951ac4c)
-![Screenshot 2024-01-24 102006](https://github.com/dhanrajpimple/TMD-TASK/assets/86459893/a7f9165a-f490-42b4-9adc-24c17ebf6722)
+![Screenshot 2024-01-24 102207](https://github.com/dhanrajpimple/TMD-TASK/assets/86459893/47c91c54-87aa-4fd7-8299-aecd6156783c)
+![Screenshot 2024-01-24 102257](https://github.com/dhanrajpimple/TMD-TASK/assets/86459893/8897b275-b906-4e86-ad13-9f3899c22011)
+![Screenshot 2024-01-24 102322](https://github.com/dhanrajpimple/TMD-TASK/assets/86459893/92c9f213-27ad-4914-acf0-a3e06a4d8e38)
+
 
 
 task3
